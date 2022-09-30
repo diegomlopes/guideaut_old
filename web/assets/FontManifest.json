@@ -1,0 +1,13 @@
+[
+    {
+      "family": "Apercu",
+      "fonts": [
+        {
+            "asset": "Apercu_Medium.tff"
+        },
+        {
+            "asset": "Apercu_Regular.tff"
+        }
+      ]
+    }
+  ]

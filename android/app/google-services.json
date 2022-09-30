@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113268640510",
+    "firebase_url": "https://guideaut-2f025-default-rtdb.firebaseio.com",
+    "project_id": "guideaut-2f025",
+    "storage_bucket": "guideaut-2f025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113268640510:android:ac0a1fe1ae8e8a0cf0f3af",
+        "android_client_info": {
+          "package_name": "com.example.guidealt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113268640510-3qv8mgrcnpbrvfm0d2mnf8ldfd25ins1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9VbvXP62CNQpHYGxNvuy71HE9Wp6OTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113268640510-3qv8mgrcnpbrvfm0d2mnf8ldfd25ins1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
